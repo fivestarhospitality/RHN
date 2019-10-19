@@ -1,0 +1,2 @@
+# RHN
+Romanian Hospitality Newsletter
